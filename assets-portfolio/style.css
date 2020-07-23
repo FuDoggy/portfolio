@@ -1,9 +1,10 @@
 
 .jumbotron {
     background-image: url("https://c4.wallpaperflare.com/wallpaper/840/366/443/laptop-apple-inc-pens-macbook-wallpaper-preview.jpg");
-    background-size: 100%;
+    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
-    height:100vh
+    height:100vh;
 }
 
 .container {
@@ -53,6 +54,5 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url('https://i.pinimg.com/236x/7d/38/93/7d3893c54276724c2161d45996357bf3--star-wars-backgrounds-star-wars-wallpaper-desktop.jpg');
     min-height: 100%;
 }

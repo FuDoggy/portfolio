@@ -3,14 +3,9 @@
     height: 60px;
 }
 
-.bgimg-1 {
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-image: url('https://i.pinimg.com/236x/7d/38/93/7d3893c54276724c2161d45996357bf3--star-wars-backgrounds-star-wars-wallpaper-desktop.jpg');
-    min-height: 100%;
-    margin-top: 50px;
+h1 {
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 input[type=text], select, textarea {
@@ -36,9 +31,4 @@ input[type=text], select, textarea {
     background-color: #45a049;
   }
   
-  .container {
-    border-radius: 5px;
-    background-color: #f2f2f2;
-    padding: 20px;
-    margin-top: 50px;
-  }
+ 
