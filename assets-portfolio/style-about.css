@@ -6,7 +6,7 @@
 .bgimg-1 {
     padding-top: 50px;
     padding-bottom: 50px;
-} */
+} 
 
 .container {
     border-radius: 5px;
@@ -15,9 +15,23 @@
     margin-top: 100px;
   }
 
+  .img-thumbnail {
+      margin-right: 20px;
+  }
+
   p {
     font-size: 18px;
     letter-spacing: .2rem;
     line-height: 1.75em;
   }
 
+  @media only screen and (max-width: 768px) {
+      .img-thumbnail {
+      width: 100%;
+      margin-right: 20px;
+      }
+  }
+  
+  footer {
+    text-align: center;
+  }

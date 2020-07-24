@@ -56,3 +56,7 @@
     background-size: cover;
     min-height: 100%;
 }
+
+footer {
+  text-align: center;
+}

@@ -30,5 +30,10 @@ input[type=text], select, textarea {
   input[type=submit]:hover {
     background-color: #45a049;
   }
+
+  footer {
+    text-align: center;
+    padding-top: 100px;
+  }
   
  
