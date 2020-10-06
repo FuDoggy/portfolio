@@ -4,11 +4,11 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height:100vh;
+    height:50vh;
 }
 
 .container {
-    position: relative;
+    position: fixed;
     text-align: center;
     color: white;
   }
